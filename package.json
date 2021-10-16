@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "algoliasearch": "^4.10.5",
+    "firebase-tools": "^9.18.0"
+  }
+}
